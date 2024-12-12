@@ -1,2 +1,3 @@
 # watching
-Watchdog multiuse
+Watchdog to look for filesystem changes
+
